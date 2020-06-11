@@ -16,3 +16,5 @@ O aplicativo funciona no modo *single page*, com o componente <code>App</code> i
 
 ### *Screenshots*
 
+<img src="./assets/shot1.jpg" width="250">
+<img src="./assets/shot2.jpg" width="250">
