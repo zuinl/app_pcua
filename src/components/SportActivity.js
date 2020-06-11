@@ -8,9 +8,9 @@ export default props => {
     <View style={styles.container}>
         <Text style={styles.title}>{props.title}</Text>
         <Text style={styles.subtitle}>{props.time}</Text>
-        <Text style={styles.subtitle}>{props.project}</Text>
-        <Text style={styles.text}>{props.address}</Text>
-        <Text style={styles.text}>{props.instructor}</Text>
+        <Text style={styles.subtitle}>Projeto: {props.project}</Text>
+        <Text style={styles.text}>Local: {props.address}</Text>
+        <Text style={styles.text}>Instrutor(a): {props.instructor}</Text>
     </View>
     )
 }
